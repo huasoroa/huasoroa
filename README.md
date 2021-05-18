@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huasoroa but I'm better known as Ricardo Mayorga Mera
+- 👋 Hi, I’m @huasoroa but I'm better known as ***Ricardo Mayorga Mera***
 - 👀 I’m interested in Full stack development and Mobile development. As well as many other things ... 
 - 🌱 I’m currently learning in which field I want to build expertise and be the best at what I do. 😄
 - 💞️ I’m looking to collaborate on all sorts of project that can help me finance my studies and gain experience at the same time 😄
